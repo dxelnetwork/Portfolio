@@ -261,3 +261,8 @@ font-weight: 700;
         transform: translateY(0%);
     }
 }
+
+div {
+    text-justify: inter-word;
+    
+}
