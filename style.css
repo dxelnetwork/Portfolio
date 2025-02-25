@@ -133,6 +133,7 @@ font-weight: 700;
 }
 
 .home-info p {
+    text-align: justify;
     font-size: 14px;
     margin: 10px 0 25px;
 }
