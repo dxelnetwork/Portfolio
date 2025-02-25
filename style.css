@@ -261,15 +261,3 @@ font-weight: 700;
         transform: translateY(0%);
     }
 }
-
-@media screen and (max-width: 600px)
-{
-        h1{
-            margin-top: 50px;
-            font-size: 36px;
-            line-height: 50px;
-        }
-        h2{
-
-        }
-}
