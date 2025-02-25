@@ -262,7 +262,7 @@ font-weight: 700;
     }
 }
 
-div {
+div .home-img {
     text-align: justify;
     text-justify: inter-word;
 }
